@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pref</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+</resources>
